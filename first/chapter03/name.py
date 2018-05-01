@@ -1,5 +1,8 @@
 # coding:utf-8
-
+'''
+    Your name and age.
+    filename: name.py
+'''
 name = input("What is your name?")
 age = input("How old are you?")
 
