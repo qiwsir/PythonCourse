@@ -24,7 +24,6 @@ def test_list_append():
 @timing_func
 def test_list_compre():
     [i for i in range(0, 100000)]
-
 a = test_list_append()
 c = test_list_compre()
 print("test list append time:", a)
