@@ -1,6 +1,6 @@
 #coding:utf-8
 '''
-    choice the prime number.
+    choose the prime number.
     filename: prime.py
 '''
 

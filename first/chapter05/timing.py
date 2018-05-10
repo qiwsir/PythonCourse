@@ -1,7 +1,7 @@
 #coding:utf-8
 
 '''
-    the time of option a function.
+    the time of executing a function.
     filename: timing.py
 '''
 
