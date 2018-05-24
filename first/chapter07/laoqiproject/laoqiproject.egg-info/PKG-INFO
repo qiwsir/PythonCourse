@@ -1,0 +1,11 @@
+Metadata-Version: 1.0
+Name: laoqiproject
+Version: 0.1.1
+Summary: an example of publishing to pypi
+Home-page: https://github.com/qiwsir/PythonCourse/tree/master/first/chapter07/laoqiproject
+Author: qiwsir
+Author-email: qiwsir@qq.com
+License: MIT
+Description: UNKNOWN
+Keywords: setup,laoqi
+Platform: any

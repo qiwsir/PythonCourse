@@ -1,9 +1,9 @@
-# 引用包管理工具setuptools，其中find_packages可以帮我们便捷的找到自己代码中编写的库
+#coding:utf-8
 from setuptools import setup, find_packages
 
 setup(
     name='laoqiproject', 
-    version='0.1',
+    version='0.1.1',
     keywords=('setup', 'laoqi'),
     description='an example of publishing to pypi',
     long_description='',
@@ -13,11 +13,11 @@ setup(
     author_email='qiwsir@qq.com',
     packages=find_packages(), 
     platforms='any',
-    url='' 
+    url='https://github.com/qiwsir/PythonCourse/tree/master/first/chapter07/laoqiproject', 
     include_package_data = True,
-    entry_points={
-        'console_scripts':[
-            'example=run:main' 
-        ]
-    },
-)
+    # entry_points={
+    #     'console_scripts':[
+    #         'example=run:main' 
+    #     ]
+    # },
+)     
