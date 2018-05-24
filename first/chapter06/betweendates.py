@@ -1,7 +1,7 @@
 #coding:utf-8
 '''
-    Calculate days, weeks between two date.
-    filename: betweendate.py
+    Calculate days, weeks between two dates.
+    filename: betweendates.py
 '''
 import datetime
 from dateutil import rrule

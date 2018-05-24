@@ -1,7 +1,7 @@
 #coding:utf-8
 
 '''
-    about physicsts.
+    about physicists.
     filename: physicist.py
 '''
 

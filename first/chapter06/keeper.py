@@ -1,6 +1,6 @@
 #coding:utf-8
 '''
-    keep speical character by a string.
+    keep speical characters in a string.
     filename: keeper.py
 '''
 

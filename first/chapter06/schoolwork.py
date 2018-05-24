@@ -23,7 +23,7 @@ class Teacher:
         self.subject = subject
     def evaluate(self, result=True):
         if result:
-            return "You are greate."
+            return "You are great."
         else:
             return "You should work hard"
 

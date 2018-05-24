@@ -1,6 +1,6 @@
 #coding:utf-8
 '''
-    How to use property() in the programming.
+    How to use property() in programming.
     filename: propertyfunc.py
 '''
 

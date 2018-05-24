@@ -1,6 +1,6 @@
 #coding:utf-8
 '''
-    define a new type object.
+    define a new object type.
     filename: roundfloat.py
 '''
 

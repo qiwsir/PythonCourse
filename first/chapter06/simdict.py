@@ -1,6 +1,6 @@
 #coding:utf-8
 '''
-    define a type that is similar dictory.
+    define a type that is similar to dictory.
     filename: simdict.py
 '''
 

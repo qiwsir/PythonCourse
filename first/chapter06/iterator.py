@@ -1,6 +1,6 @@
 #coding:utf-8
 '''
-    a iterator
+    an iterator
     filename: iterator.py
 '''
 

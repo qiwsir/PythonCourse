@@ -1,6 +1,6 @@
 #coding:utf-8
 '''
-    Judge born boy or girl by sex chromosome.
+    Judge having a boy or girl by sex chromosome.
     filename: chromosome.py
 '''
 import random
