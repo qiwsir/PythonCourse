@@ -1,6 +1,6 @@
 '''
    judge the number of age is even or odd.
-   filename: assertage.py
+   filename: customexception.py
 '''
 class NegativeAgeException(RuntimeError):
     def __init__(self, age):
