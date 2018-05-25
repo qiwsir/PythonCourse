@@ -1,7 +1,7 @@
 #coding=utf-8
 '''
     add between fractions.
-    filename: fraction.py
+    filename: fractionadd.py
 '''
 
 class Fraction:

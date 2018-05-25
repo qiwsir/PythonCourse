@@ -1,8 +1,6 @@
+calculate.py
 setup.py
-example/__init__.py
-example/entry.py
 laoqiproject.egg-info/PKG-INFO
 laoqiproject.egg-info/SOURCES.txt
 laoqiproject.egg-info/dependency_links.txt
-laoqiproject.egg-info/entry_points.txt
 laoqiproject.egg-info/top_level.txt
