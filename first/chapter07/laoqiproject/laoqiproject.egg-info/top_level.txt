@@ -1,1 +1,4 @@
-calculate
+javaspeak
+langspeak
+pythonspeak
+rustspeak

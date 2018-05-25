@@ -1,10 +1,16 @@
-Metadata-Version: 1.0
+Metadata-Version: 2.1
 Name: laoqiproject
-Version: 1.0
-Summary: UNKNOWN
+Version: 0.0.1
+Summary: You can listen the speaking of programming language.
 Home-page: UNKNOWN
-Author: UNKNOWN
-Author-email: UNKNOWN
+Author: qiwsir
+Author-email: qiwsir@qq.com
 License: UNKNOWN
-Description: UNKNOWN
+Description: # Programming Language Speak
+        
+        
 Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown

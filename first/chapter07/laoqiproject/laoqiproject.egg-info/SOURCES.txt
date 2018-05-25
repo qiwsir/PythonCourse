@@ -1,6 +1,13 @@
-calculate.py
+README.md
+langspeak.py
 setup.py
+javaspeak/__init__.py
+javaspeak/javaspeak.py
 laoqiproject.egg-info/PKG-INFO
 laoqiproject.egg-info/SOURCES.txt
 laoqiproject.egg-info/dependency_links.txt
 laoqiproject.egg-info/top_level.txt
+pythonspeak/__init__.py
+pythonspeak/pythonspeak.py
+rustspeak/__init__.py
+rustspeak/rustspeak.py
