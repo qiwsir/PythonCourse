@@ -13,7 +13,7 @@ setuptools.setup(
     description="You can listen the speaking of programming language.",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="",
+    url="https://github.com/qiwsir/PythonCourse/tree/master/first/chapter07/laoqiproject",
     py_modules = ['langspeak',],
     packages=setuptools.find_packages(),
     classifiers=(
