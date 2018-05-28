@@ -7,10 +7,10 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="laoqiproject",
-    version="0.0.1",
+    version="0.0.2",
     author="qiwsir",
     author_email="qiwsir@qq.com",
-    description="You can listen the speaking of programming language.",
+    description="You can listen to the speaking of programming language.",
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/qiwsir/PythonCourse/tree/master/first/chapter07/laoqiproject",

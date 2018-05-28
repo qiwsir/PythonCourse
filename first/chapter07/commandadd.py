@@ -1,6 +1,6 @@
 #coding:utf-8
 '''
-    add two number in a command line
+    add two numbers in a command line
     filename: commandadd.py
 '''
 
