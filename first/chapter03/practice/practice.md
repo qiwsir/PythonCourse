@@ -95,3 +95,24 @@
     - 得到[4, 3, 2, 1]
 
 20. 比较内置函数sorted和列表的方法sort的异同。
+
+21. 请注意观察如下操作，并亲自在交互模式中操作验证：
+
+    >>> a = 256
+    >>> b = 256
+    >>> a is b
+    True
+    >>> c = 257
+    >>> d = 257
+    >>> c is d
+    False
+
+    >>> lst1 = ["python", "java"]
+    >>> lst2 = ["python", "java"]
+    >>> lst1 is lst2
+    False
+    >>> lst3 = lst1
+    >>> lst1 is lst3
+    True
+
+根据所学知识，并通过网络搜索，介绍上述操作结果。
