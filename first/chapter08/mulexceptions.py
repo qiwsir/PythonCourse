@@ -1,6 +1,6 @@
 # coding=utf-8
 '''
-    handing multiple exceptions.
+    handling multiple exceptions.
     filename: mulexceptions.py
 '''
 
