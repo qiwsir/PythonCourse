@@ -1,6 +1,8 @@
 #coding:utf-8
 '''
 18. 替换字符串中的某些某部分，比如“This is a book”字符串，将其中的“a”替换为“one”。
+参考：https://songlee24.github.io/2014/09/01/python-library-02/
+https://docs.python.org/3/library/re.html
 '''
 
 import re
