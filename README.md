@@ -14,6 +14,7 @@
 
 - 本书github仓库：https://github.com/qiwsir/PythonCourse
 - 视频参考课程：https://itdiffer.com/course/47
+- 本书勘误表：https://itdiffer.com/article/64
 
 学习者、教师、编者可以通过网络进行沟通交流。
 
