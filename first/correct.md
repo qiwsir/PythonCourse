@@ -165,7 +165,7 @@
 
     - 行数：图4-1-1
     - 说明：将原图4-1-1用下面的图示替换。
-    - ![image-20190720185240818](/Users/qiwsir/Documents/Codes/PythonCourse/first/images/and.png)
+    - ![image-20190720185240818](./images/and.png)
 
 23. 页面：094
 
