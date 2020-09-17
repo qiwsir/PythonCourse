@@ -13,8 +13,8 @@
 此外，本书以网络方式提供源码、视频参考课程等。
 
 - 本书github仓库：https://github.com/qiwsir/PythonCourse
-- 视频参考课程：https://itdiffer.com/course/47
-- 本书勘误表：https://itdiffer.com/article/64
+- 视频参考课程：https://edu.csdn.net/course/detail/26676
+- 本书勘误表：https://qiwsir.github.io/tags/
 
 学习者、教师、编者可以通过网络进行沟通交流。
 
@@ -22,18 +22,16 @@
 
 # 相关资源
 
-### 个人网站
+### 个人博客：qiwsir.github.io
 
-[itdiffer.com](http://www.itdiffer.com)
+### QQ群：26913719 
 
-### QQ群：26913719
+（说明：此QQ群是读者交流，而非作者答疑区，请特别注意。如果读者有问题，可以在群里面跟其他读者交流。作者没有答疑的义务。）
 
-说明：此QQ群是读者交流，而非作者答疑区，请特别注意。如果读者有问题，可以在群里面跟其他读者交流。作者没有答疑的义务。
+### 微信公众号：老齐教室
 
-关于本QQ群的更多说明：
+在微信公众号中有专门的“python编程”专栏，汇总了很多有关python语言的好文章。
 
-- 加入本群，收费1元，目的是免群主审核，并且拦住广告发布人。如果对此有异议，请不要加入。
-- 因为设置了上述功能，群主无法单独邀请用户加入了（这是QQ方面的规定），所以，不要让群主邀请。
-- 更不要通过其它途径给群主一块钱，然后让群主想办法把你加到群里，群主表示做不到。
+![WechatIMG6](https://public-tuchuang.oss-cn-hangzhou.aliyuncs.com/WechatIMG6_20200109154827.jpeg)
 
-再次提醒：对入群收费1元，有异议者请不要加入。
+
