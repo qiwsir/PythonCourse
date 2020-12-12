@@ -32,6 +32,13 @@
 
 在微信公众号中有专门的“python编程”专栏，汇总了很多有关python语言的好文章。
 
+本书在各大图书销售平台有售，出版社业已有电子版。
+
+- 电子工业出版社天猫旗舰店
+- 京东
+- 当当
+- 其他网店
+
 ![WechatIMG6](https://public-tuchuang.oss-cn-hangzhou.aliyuncs.com/WechatIMG6_20200109154827.jpeg)
 
 
